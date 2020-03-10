@@ -1,4 +1,6 @@
 # React Basics CW
+#### Nice! The logo has nothing to do with you show so I anticipated you removing/updating it as a part of styling. 
+#### Score : 4/5
 
 Create a new react app
 
